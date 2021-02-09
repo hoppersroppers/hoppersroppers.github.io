@@ -1,0 +1,207 @@
+Index.html
+
+	First Text
+
+		There is no lack of incredible resources available online to teach yourself how to do incredible things on computers, I’ll be the first to admit that. I’m a self taught hacker, started as a script kiddie in middle school hanging out on Hackforums, and a few years later making it to the big leagues as the Naval Academy’s Cyber Security Team’s Training Officer, with a decade or so of trying to figure out what I was doing mixed in between.  
+		So why another online training site? For all of the great resources out there, and all of the incredible pieces of training, nothing walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals. Everyone wants to learn how to cyber, but very quickly they realize that there is no way for them to learn everything. They’re not wrong, the vast and constantly expanding body of knowledge about this field makes it impossible for anyone to keep up. But what is most important for the beginner to realize is that with the proper knowledge of the fundamentals and a firm grasp on the hacker mentality, that irrepressible drive to learn and to do, nothing is too complex for them to learn if they put the time in. 
+
+	Roppers Academy Core Tenets:
+
+		No initial expectation of knowledge
+		Understanding foundational theory comes before building technical skills
+		Developing fundamental technical skills lays the groundwork for future success
+		Knowledge must be actionable
+		There is no “I Believe” button
+		The measure of a community is how they treat those who are trying to gain entry
+
+	By managing new learners’ expectations of themselves, providing constant quantified feedback on their progress, and bringing them into the community, Roppers Academy is designed to minimize dropout rate while providing the best first hundred hours of a cyber security education possible.
+	Why one hundred hours? In our experience, if someone gets through one hundred hours of learning in this field they have the knowledge required to figure out what the next thousand of hours is asking them to learn, the skills required to learn how to solve the next thousand hours of problems, and most importantly the confidence required to face the infinite vastness of this domain. 
+	Our goal isn't to teach you how to hack,
+	our goal is to teach you how to learn.
+
+	Training
+		This site is based off of a totally not peer reviewed study on educational theory for self guided technical learning. I taught myself and I’ve taught others for the last three years and identified a ton of problems, so I designed this site to address them. Eventually I'll get around to actually doing a formal study on this.
+
+	Community
+		To the surprise of no one, the infosec community is among the most prolific of online communities when it comes to creating training material. This site makes an attempt to aggregate the incredible wealth of knowledge out there, along with providing a central area for the community to grow around. Anyone can request to edit our site and all the courses are created by our members. Roppers Academy Dojo is a living product of it’s community, click here to learn more about how to join.
+
+	Competition
+		Learning is fun and all but competition is the best way to show how much you've learned, plus it's fun. No matter your skill level, you can contribute to our team or strike off on your own against other similarly experienced members. Click here to learn about the competitive side of the Roppers Academy Dojo. 
+
+
+
+
+About
+	About
+		I created this site because while teaching yourself how to be a hacker is hard, teaching yourself how to be a hacker the right way is even harder. 
+		Roppers Academy is the child of a decade of attempting to find resources online to expand my knowledge. There is no lack of resources, but rather, there is a lack of flow, a lack of coherent frameworks and training plans. And while going a rambling on the internet works for some people, it doesn't work for most of us. I instantly gravitated towards Hack Forums and Hack This Site. Plenty of others did as well, but significantly more simply quit because they thought they didn't know enough and could never learn all the material out there.
+		The simple fact of the matter is that noone can even approach knowing a fraction of what there is to know about this domain, however, this site aims to give students the tools required to navigate anything thrown at them. By repeatedly stressing that students are not expected to show up being elite hackers, or to leave as elite hackers, this site attempts to fill the gap between "I want to cyber" and "I cyber".
+		All we hope to do here is to provide guidance for the first 6 months of your journey into cyberspace, after that, we hope to have given you the tools, techniques, and hacker mentality required to address any problem that comes your way.
+
+	Our Mission
+		To create the best damn site on the internet for aspiring cyber security professionals to learn and grow while mastering the fundamentals of the field, along with growing a community alongside the training material to provide a central location for cyber education. 
+
+	Guiding Philosophy
+		Community first, building out relationships and soft skills will always come before technical know how. The community we build is the lifeblood of the site, the content creators, course writers, mentors, and most importantly the students.
+
+	Training Philosophy
+		Cyber is hard, cyber is fun. People show up thinking they don't know anything. People freak out and realize they knew even less than they thought they did. People leave. We don't like that. Don't leave.
+
+
+
+
+Training Home
+
+	Training Paths 
+		We try to create a path for you to follow unlike 90% of these sites whose technique is "throw them to the wolves".
+
+		Curriculum is built in Moodle
+
+		Resources are on this site, along with the community stuff
+
+
+
+
+Community Home
+
+	The Purpose of Community
+
+		The strength of any site, from GitHub to HackForums, is drawn from the strength of the community. The willingness to teach, to help, and to learn is what differentiates the great sites from the good sites, because no matter how good the content is, it doesn’t mean much if there is no one to share it with. We are working to engineer this community to be the best hub of information security knowledge it can be, based off of the principles outlined in our Philosophy, our Community Guidelines, and the best interests of our members.
+
+	Our Community
+
+	Slack
+		A borderline magical group messaging application that we use for pretty much everything. Channels are created for specific topics, and nearly every single part of this site or group in this community has a channel. 
+		Click here to join our Slack:
+
+	Internet Relay Chat (IRC)
+
+		IRCs are a major part of hacker culture, and while more modern alternatives (Slack) have taken over the role as the primary group messaging application, nothing beats hanging out in an IRC channel and shooting the shit.  
+
+	Forums
+		We use the forums for discussions on a variety of topics on just about anything. It’s not HackForums, and we don’t want it to be.
+		Click Here: 
+
+	Social Media
+		We don’t have a social media game… yet. Do you want to run it? If so, message an admin on Slack.
+
+	Mentoring
+
+		https://github.com/andMYhacks/infosec_mentors_project
+
+	Conference
+
+		We don’t have a conference, yet, but we will. Maybe just online for now, but there will be a con. 
+
+
+
+
+
+Competition Home
+
+	The Purpose of Competition
+
+		While we do our best to teach challenging material, nothing pushes the envelope of what you are capable of like a competition. Competitions are time compressed learning coupled with the application of your skills and knowledge. There is room on any of our teams for newcomers and experts alike, and the teamwork and collaboration skills that you will pick up training for and competing in these events are among the most valuable you can learn. While all of the team members may not be located in the same place, the vast majority of competitions we compete in are remote and allow collaboration with the experts who mentor (and compete with) each team.
+
+
+	Our Teams	
+		TBD Name
+
+		Capture the Flag (CTF) Team
+		Our Jeopardy style Capture the Flag team is the largest and most active of our teams, competing in assorted events on a monthly basis. This is best place for a beginner to get introduced to the competitive scene, where you will be able to learn from and compete alongside experienced hackers. We are hoping to turn this team into a super group of competitors from a large number of teams who can compete on this team whenever they want to do an event their team doesn’t have the manpower for.
+		Click Here to learn about joining:
+
+		TBD Name
+		Cyber Defense Team (Blue Team)
+		Our Cyber Defense Team competes in various defensive competitions, this is where you learn the operational skills.
+		Click Here to learn about joining:
+
+		TBD Name
+		Red Team
+		The Bad Guys of any offense/defense event. Love them or hate them, you can’t deny that they are good at what they do. Experience on the Blue Team is required. 
+		Click Here to learn about joining:
+
+		Roppers Academy
+		Hackathon Team
+		SOMETHING
+		Click Here to learn about joining:
+		TBD Name
+
+		Policy Team
+		This team focuses on the hard part of cyber, the soft skills. Writing papers, giving presentations, and kicking ass in the fields of policy, law, and strategy, this team makes an impact on the real world. 
+
+		Click Here to learn about joining:
+
+
+	Our Competitions
+		CTFs
+
+		Our CTF team hosts regular internal CTFs for anyone in the community to compete in, along with our annual event. ‘______________’.
+
+		Our Next CTF Will Be
+
+		Sign Up to Compete
+
+		Click here to learn how you can help organize, build infrastructure, and write challenges for these events.
+
+		e-Hackathons
+		Roppers Academy hosts fully online hackathons every few months, allowing digital collaboration around the world. 
+
+		Our Next Hackathon Will Be: 
+
+		Sign up to Compete
+
+		Click here to learn how you can help be a part of these events. 
+
+		Policy Competition
+
+		Our policy team holds a few policy events every year, with topics ranging from digital privacy law to the laws of cyber war.
+
+		Our Next Competition Will Be:
+
+		Sign Up to Compete
+
+		Click here to learn how you can help organize and spread the word for these events.
+
+		
+		
+Research Home
+
+	Our Sponsors
+
+	Sponsors
+		You should sponsor us! Hosting is cool, money is cool, prizes are fun, training is AWESOME! Email Me for sponsorship info!
+
+	LCDR Slack
+
+		Thanks for approving this! 
+
+	GitHub
+
+	Thanks for the free hosting homies
+
+	
+	
+Our Partners
+
+	Partners
+	These are our friends! If you want to be our friends, Email Me!
+
+	United States Naval Academy Cyber Security Team
+
+		The place where it all started. We tried to make something called the Hacker Qualification Standard, but it failed pretty badly because we didn’t have the infrastructure to make use of its training material. This site applies the principles we outlined for HQS to build a site engineered for learning. 
+
+
+
+
+How To Help	
+
+	Teach
+		Create classes over on our Moodle! We will have a class to teach you how to do this too!
+	Build
+		Make Pull Requests on our GitHub page! This is all static files so it's pretty easy!
+	Grow 
+		Tell people about this!
+
+
+

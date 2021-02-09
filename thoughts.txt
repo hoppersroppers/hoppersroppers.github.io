@@ -1,0 +1,337 @@
+1Nov
+	After spending too much time I decided to do a soft launch, make my first post on my newly created empty twitter page, and then post on the vetsec slack page. There was a clear bump from the vetsec slack page, which had 700+ members in the channel I posted in.  However, at the end of the day, despite ____ there were no conversions.
+
+	I feel like my current pricing page makes this seem too cheap and perhaps free, I want to create a sense of urgency by making it look like I will start charging... but then I lose my ability to seem like a good guy giving this away for free, which is what I am doing
+
+	if I create vouchers for the class and give them out, I greatly expand the chances of people participating, as well as I give the influencers something to give out. this creates many more eyeballs on what I am doing than I would be otherwise
+
+	turn it into a closed beta, with guest access to look at the course
+	create a waitlist option
+
+	then do vouchers and give them to different influencer type people
+	https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/
+
+	additionally, I went and put in a pull request for and awesome list, we will see what happens https://github.com/onlurking/awesome-infosec/compare/master...deveyNull:patch-1
+
+	I should move this all to the correct fucking website before I go and keep building backlinks though
+	with all of that said, there are people signing up and doing the course which is all I could hope for.
+
+
+
+
+
+
+
+	55% mobile means my refusal to launch before completing mobile optimization was absolutely the right one.
+
+	https://twitter.com/deevnull/status/1192432767847452673?s=20
+
+	"First day numbers after the soft launch of https://hoppersroppers.github.io/course.html, only 59 sessions but an 8% conversion rate (account sign up) is a good sign. The spike in the middle was from a post I made to the @VeteranSec
+ slack. Plenty of room to grow is an understatement!"
+
+ 1Nov
+ After spending too much time I decided to do a soft launch, make my first post on my newly created empty twitter page, and then post on the vetsec slack page. There was a clear bump from the vetsec slack page, which had 700+ members in the channel I posted in.  However, at the end of the day, despite ____ there were no conversions.
+
+ I feel like my current pricing page makes this seem too cheap and perhaps free, I want to create a sense of urgency by making it look like I will start charging... but then I lose my ability to seem like a good guy giving this away for free, which is what I am doing
+
+ if I create vouchers for the class and give them out, I greatly expand the chances of people participating, as well as I give the influencers something to give out. this creates many more eyeballs on what I am doing than I would be otherwise
+
+ turn it into a closed beta, with guest access to look at the course
+ create a waitlist option
+
+ then do vouchers and give them to different influencer type people
+ https://www.reddit.com/r/startups/comments/7aap5u/influencer_marketing_summary_of_12_articles/
+
+ additionally, I went and put in a pull request for and awesome list, we will see what happens https://github.com/onlurking/awesome-infosec/compare/master...deveyNull:patch-1
+
+ I should move this all to the correct fucking website before I go and keep building backlinks though
+ with all of that said, there are people signing up and doing the course which is all I could hope for.
+
+
+
+
+
+
+
+ 55% mobile means my refusal to launch before completing mobile optimization was absolutely the right one.
+
+ https://twitter.com/deevnull/status/1192432767847452673?s=20
+
+ "First day numbers after the soft launch of https://hoppersroppers.github.io/course.html, only 59 sessions but an 8% conversion rate (account sign up) is a good sign. The spike in the middle was from a post I made to the @VeteranSec
+slack. Plenty of room to grow is an understatement!"
+
+	Second day numbers, not a terrible drop off. Only had one new user sign up yesterday, but showed the first students beginning their progress. Also created
+	@mailchimp
+	forms and distributed them around the site to build a mailing list
+
+	There was some non-intuitive UX that was causing students to not be enrolled in the course despite having registered. Luckily I had a student message me about a problem he was having and I was able to identify the problem and created a new module to help others work around it
+
+
+	Basically, at the exact same time I decided to launch this, I also found out that I had an opportunity to apply for a lateral transfer into the Navy's Cyber Warfare engineer program, a highly technical developer program. I hadn't done anything technical in the last few years so I knew I needed to focus on that
+
+
+
+
+
+
+	As a result, after this first week, I put the course on autopilot and took a very laid back approach to growth.
+	First, I set up a couple of things in tweetdeck to monitor for security, education, cyber, resources,etc
+	Then I would check every day or so for hits on those keywords and I would jump in to provide some assistance
+
+	For running the site day to day, I would log in, check to see if any work had been submitted, make sure no students were registered but not enrolled, and then message new students
+	I got a ton of feedback on various broken parts of the experience this time, usually from one or two students who were out in front, which allowed me to get ahead of the problems
+
+	 its a very manageable speed right now, which is huge and I have already caught some serious problems, most notably, the course enrollment was non intuitive and was causing very buggy behavior. It is fixed now.
+	from a customer support perspective, the two things Ive been called out on was broken links (where the user mistyped .htlm I knew I didnt have any because I had a crawler tool look for deadends) and launchpass not signing someone up (which was caused by his ad blocker). both were brought to me in the vetsec slack
+
+
+	additional notes are that I added a mailchimp email signup all over my website that should increase some sort of capture, along with filtering out my IP from my google analytics. very likely I was fucking up some of my statistics
+	08Nov
+	made two changes to the site, removed the requirement for vmware and for codeacademypython. both exist in a form, but can be replaced by any equivalent, this allows people who have already been studying or have vbox downloaded to not have to waste any time
+
+
+	during this time growth was minimal but I got to learn about how to improve the user experience with very small numbers
+	I also spent a lot of time relearning C.... and what better way to learn C than to write malware?
+
+	Well in January I released a couple posts about the malware framework I wrote
+	https://twitter.com/deevnull/status/1216152776037683202?s=20
+	I also linked to my course below and got 220+ clicks
+	Despite this surge of traffic, only got 4 conversions at that time. which makes sense, because they were not targeted clicks of students, but instead, clicks from people who care about malware
+
+Feb 1	During all this, people were signing up for my mailchimp, about 20. solid choice building a way to passively capture emails. By the end of end of Jan I was at my 90 day mark and did a quick check
+	https://twitter.com/deevnull/status/1224006803756707844?s=20
+	 Reached  ~1000 visitors with a ~10% return rate.
+	During this time we signed up a little more than 80 students, however, of those 80 students, we have about 5-10 active. I have not done a very good job of engaging through email/other mediums to track down people who signed up and never started, need some automated re-targeting.
+	Something interesting is that while 'Social' has been the majority of my users, the .17% conversion rate is terrible... however 'Direct' is at 10%. After googling, this appears to be the result of a phenomenon known as "dark social".
+
+	It was clear my onboarding process needed work, because some students never started and I made no attempt to ever get them back, and many students started and never continued, and I also did not attempt to reach them.. anything along this method that I could  automate would likely go a long way as we continue to scale
+
+	In a brief attempt at manually doing this, I sent my first mailchimp campaign to students of the site trying to get them to reengage. of 73 students, 30 opens, 2 clicks, zero responses. Not great
+	I also sent out an email to the people who signed up for the mailing list via popups. of those 27, 17 opens, 5 clicks, 2 meaninginful responses. a little better
+
+
+	Almost all of my acquisition has come through Twitter or direct, likely from people sharing the twitter link. Slack was not terrible, but didnt scale.
+	I increased my twitter engagement by setting up a tweetdeck with a series of filters that got me relevant traffic.
+	My identifying people asking for resources and others sharing resources, I was able to hop into threads and offer up my site.
+	Then, if I got retweeted by the right people, Id get a couple hundred new visitors.
+	As a result, increasing the effectiveness of my twitter game has been a priority for me, as it has been my largest source of traffic.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22Feb	I am spending today automating a few things
+	First, I went and started adding zapier to my moodle. First integration, mailchimp. Fairly straightforward really
+
+	then I went and added an automatic email from mailchimp that should fire off when users enrol or signup from the mailing list. still operating with just a free mailchimp
+	in the email I ask them to share, so hopefully that helps a bit with growth.
+
+	also, I went and did a bunch of stuff to become more visible to google
+	First, I went and made my whole site indexable, which will allow me to drive organic traffic, for the first time ever
+	Second, I went and moved the course to academy.hoppersroppers.org
+	There is no doubt that my initial launch of using hoppersroppers.github.io as the primary domain was not the best move, but hey, you win some and you lose some. At least the github.io indicates safety to most users, so that probably helps with clicks
+
+	I did not complete the entire migration of the site over because of course, its a jekyll site and i need to install ruby and jekyll on the webserver and I didnt feel like troubleshooting that,
+	Its super low priority so I will do it eventually. For now, keep focusing on automation and creating content.
+
+	Follwoing the side project marketing checklist to see how that goes....
+	In the last few days I have: added a popup modal on exit to capture email addresses, added a purechat messenger to capture emails and questions, added a twitter card so that the site looks prettier when I post links on twitter.
+
+
+	i went and set up DNS records so that hoppersroppers.org would be hosted by hoppersroppers.github.io. just a couple easy DNS changes.
+	I also went and checked out my site in google webmaster to check how it was ranking. A first important note was that there were no links to hoppersroppers.org at all. However, all the links were to .github.io which makes sense because that is the first place I was linking to. Next I will likely update my links to point at .org. The only real reason for github.io is that it is perceived as a very safe domain, but also indicates cheapness.
+
+	I also went and did some pageload optimizations which made things load significantly faster, and I also went and included it in my actual course. was a useful thing for me to learn.
+
+	I am in the process of rewriting parts of the website to optimize for more people to visit and stay, especially my CTAs and my training page, which previously was a weird rant about learning styles and detracted from everything else I did.
+
+
+	emails have been sent to various subreddits to ask for permission to submit the course to avoid getting flagged for self-promotion. Its good, I better be allowed to self-promote.
+
+	Ive been reading a bunch of patio11 and I am working on setting up a blog, as well as figuring out lifecycle emails and charging for the course.
+	I also am working on developing a way to send automated lifecycle emails as described by patio11, to students who are inactive, as well as active, to drive greater engagement and receive more feedback.
+
+	blog should be very straightforward to do and I have plenty of content to write my thoughts down about. Perfect is the enemy of done.
+	I still am not planning on charging for a while until I lose the ability to grade and work with all the students. I don't know where that would be, my guess is somewhere in the realm of 10 active students a day and currently I am at about 1.
+	before that happens I plan on building the means to collect payment and slowly introducing it.
+
+	At the end of the day, it will be marketing that brings people here, and the marketing is most efficient when it is advertising a course. I am working on new courses and have added signup links for both of them.
+
+
+	I did a bit of programming and made these visuals. my retention sucks and I wanted to take drastic action.
+
+	first move was rearranging the course. while philosophically I think computing fundamentals should come first, the larger benefit is people being able to protect themselves and others online. that's not something they learn from linux and networking modules, but going over passwords and phishing defenses
+
+	second I moved a large section on learning which had far too many links to the back of the course. it's good stuff, but it seemed like a lot.
+
+  The most significant of these was that I actually split my initial course into two separate courses. Turns out that "everything you need to know", while true, was too broad. Now my courses are split into Computing Fundamentals and Security Fundamentals.
+
+  [ This might have been the most important change that I made, as it was a huge philosophical shift. This was the first time I realized that what I wanted was different than what users wanted, and more importantly, what users would sign up for. By adding specificity, people had a better idea of what they were signing up for.]
+
+20Mar	crazy update. first, didnt get the lat transfer. So the coronavirus is in full swing and I am working from home, along with most of the rest of the navy. as a result, we are looking for a scheme to get sailors to continue training from home. enter hopper's roppers.
+
+	Slack is driving this from his end, from my end I spun up navy. subdomain and started developing a landing page for the navy. while I was doing this I realized that my links that I had on my old landing page just brought me to the moodle courses page, not to the actual course content.
+	I have probably lost hundreds of students who had to click through register or continue as guest so they could see the value of the content...
+	well that is fixed now, anyone who clicks to the site will be directed straight through to the course. (note, turns out that I hadnt fixed it)
+
+	also, split up the originial course into 2 sections, like I always should have. Once I am done with all this navy thing I will need to go do that for the civilian courses
+	Concerned right now for how I will avoid fucking this up so I cannot monetize it in the future. We will see.
+
+	Right now, mostly worried about the damn lat transfer.
+
+24 Mar
+	things got out of hand and a lot is happening. First, the CCT thing is going well. that is well documented in other places, so not too concerned about recording that here
+
+	on the site itself, I broke the original course up into 3 completely separate courses. It is what I should have been doing the entire time. Now the user stories are very straightforward for what the learning objectives are
+	second, i finally figured out how to get users to automatically go straight to course page on link click instead of go to a register/login page. it was the primary exit point, so now students will actually see what the course looks like, which is huge, instead of being pissed Im asking them to log in
+
+	My next step is to make all the changes on navy. back over to academy. and then I will have 3 course
+	I am also 90% done with a intro to CTF course which I expect will be a huge draw
+
+	finally, I need to figure out how to add an exit intent to get users to register or drop their email address if they try to leave the page while logged in as a guest. Should be doable if they have a cookie, which they do.
+
+26Mar	changed all feedback to be non-anonymous, made all changes, working on finishing the navy stuff so that I can copy them all over back to academy
+	also notably I went and simplified the security fundamentals initial reading, there was no reason to have such long and complex readings. nobody takes this course for the damn academic pdfs.
+
+	in unrelated news, based off of feedback I had a conversation with one of my students who is in london and actually completed "the knowledge", the london cabbie test that takes 3+ years to complete. He is literally an expert learner
+	kinda neat.
+
+30Mar	Hired a high priced consultant to go through my onboarding process and help me optimize
+	And by that I mean I had my girlfriend, who should be a high priced consultant, give me dozens of ways to optimize
+
+	Wound up getting my registration flow significantly enhanced, personalized my email templates, and made course registration automatic, which removed a huge amount of friction
+	Have not integrated mailchimp zapier with the Navy site yet but should check the Zapier free tier and MC free to ensure I can handle 1000 people without getting bumped to the next level
+
+	fuck mailchimp, just went and got a python script working to send emails to people based off of my activity logs! That means I can go and do my registration campaign using my python script now!!!!
+	Went and verified my site with google postmaster tools, so now it can get through gmail filters nicely
+
+	probably just went and modified the session timeout script so people dont have to log in every 48 hours
+
+
+01Apr	In order to effectively do version control I went and built a parser for the moodle database (a hell of linked xml files), so now I can create a text file of all the content. This is on github and now I can update it and view changes as I go, which should help out a ton in terms of making sure I do changes across all courses
+	I also added a markdown url checker as I know I have a ton of bad links and I think I should have something that will run to check for bad links for me
+
+	Also on duty,  I went and wrote the entire email retention script, so now I have a way to parse course logs, do initial user onboarding and reengagement for lapsed users. Still requires about 10 clicks from me, so I  need to work on completely automating that entire thing. Either way, great start to getting my retention improved.
+
+02 Apr	I went and finished up the script to do automatic user onboarding and it sends emails at 1,2,3,5, and 7 days. There is no user segmentation or tracking of activity, but something is better than nothing!!!! Taken off the top of the to do list and put on the bottom.
+
+13Apr	I went and forgot to update this for a while, but have made some changes.
+	First, went and got the retention script fully automated, running on a google cloud instance and popping off emails every day
+	Only time will tell if that has any effect, but I gave them all unique ish links so I can track how the activity for that goes
+
+	I "finished" the first round of the CTF course, if students take it now they won't think it is bad, which is basically all that I can hope for.
+	Plenty of work left to do.
+
+
+
+
+
+	I started the process of automating grading, need to convert... alll of my assignments into quizzes... that is going to suck, so I am going to attempt to do the shitty, and parse the xml and convert it, then re-import. If I get that to work, I will save a hugggeee amount of time.
+	Simultaneously, I am working on the eventual end goal of my magic moodle parser, where I will go and recompile the moodle courses from XML, after modifying them in a github .md file that is viewed on gitbook.
+	If I get that working, I will feel like 98 percent of a hero, and be very happy with myself.
+
+	Getting all that done will allow me to put up gitbooks, request feedback, and significantly streamline my course editing process.
+	I have a gitbook page setup for the CTF course, my goal is to make some minor changes so it links to my actual course, then go and host it somewhere on my site so google can index it and it drives organic traffic. I think that is a better plan than hoping google sends people to my moodle site.
+
+15 Apr	Found out I don't need to turn all my assignments into quizzes, just convert them to non graded. Was fairly straightforward. Now the first quarter of most of my courses grade themselves. Would have saved time if I had done it earlier, but I learned a decent amount through grading, so it was worth it.
+
+	I went and updated my guest flow significantly, upon visitng a course a user recieves a redirect asking for registration, while making it clear guest access is available. this is in stark contrast to the original way, which had guest access and registration at the bottom.
+	Also, now that a user is logged in for guest access, I am able to serve a customized register or log in button, as well as arbitrary javascript.
+	I have added writing a solid pile of javascript to my to do list that will automatically pop up at various times to request registration, signup list, or to share us
+	Not sure when that will be done but I assume it will lead to a major change in conversion if I get it to work better
+
+	starting to read, start small, stay small, to learn more about what is "common knowledge" I am stumbling across. my entire knowledge of this is derived from hacker news and a little bit of indie hackers
+
+	the first note I have is that my original course, a monolithic 300 hour course, is not something that anyone wants. i need to make many smaller courses and continue specializing
+
+16 Apr	Inspired by the book, I went and removed about 90% of the references to Grace Hopper from the site. I love her a ton, and she is a big inspiration, but I cant make moves towards monetizing this with her face and name all over the site. Sorry Grace.
+	I have a temporary logo, a blue compass, and I am calling myself Ropper's Academy. I already own the Roppers.org domain so some day I will just have to sit down and get the DNS/https certs/everything else pointed at the right place
+
+17	I went and wrote the basic reengagement script, with emails sent at 15, 30, 45, 60, 90 , and 120 days. Idk how effective it will be but at least it is happening, you know?
+	I will write a better one in the future but for now this should be fine.
+	The auto email cron job should be fully set up to send the onboarding and the reengagement script, so that is pretty neat.
+
+18	cron job was still a little broken, but I "fixed it" again this morning. My confirmation emails did a good job letting me know where I was going wrong
+	Got my popup going on the site for guests, some changes to the output renderer PHP lets me do some fun stuff, a lot of opportunity there.
+	For now, it pops up 20 seconds after someone has been on the page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	In a perfect world I write a ton more javascript, but I don't really care. Seems like a lot of work, for now this is perfect
+
+21	did a little niceness and went and wrote a bit of CSS and modified one of the php files so that the course is automatically narrower and does not default to displaying the navbar
+
+	Now the deault view is way more minimalist, with no major changes to theme
+
+22	Lmao nope! The CSS broke mobile so I had to change it back. Didnt do too much today, went and created an HTML roadmap for students to help them find the right course
+	In theory, the Navy CCT thing will point at the roadmap, which will then point at my site... we will see how it goes
+23	spent this morning figuring out how to make email look less shitty and be more sustainable. I kinda like how it worked out, now all emails are in a separate file.
+	Also fixed the cron job to write output logs so I can have a better idea of what fucked up
+
+	Had a Zoom call with a company called "Grow Your Class", they are a marketing strategy group. Was interesting, good guys. Wound up explaining that I am planning on becoming a site builder at some point in the near future and they were very interested.
+	Also talked to John Hammond who seemed interested, so there is a demand in the very small group of people who I have talked to!
+
+25	I did this on duty and drunkenly on saturday night after a great time out with Lukas
+	https://github.com/hoppersroppers/moodleAnalytics
+
+27	I didnt really do anything on sunday, but today I went and made the custom user tour for guests. it is absolutely amazing, so stoked.
+	That will have to drive more people to show, and will look good for anyone who wants to customize things!
+
+29	I went and added a way to pay for a course with stripe. doesnt look great but it's a step in the right direction to this being a business. I got my first dollar from Erin, will be printing and framing the receipt.
+30	fresh off the first dollar I went and read through my archives of interviews with people who sell courses looking for ideas and business ideas. I've read most of them before, so I'm doing a lot of the basics already, but there are some clear things I want to do.
+	created a giant list of todo stuff and features, but more importantly, going to be buying mailchimp and abandoning my mailing list scripts. tons of automation can be done with that still, theres just no reason to be sending through my own server with no tracking. found out I was getting blocked as spam and not having a ton of emails go through each day recently so I'm ready to shift.
+
+02 May	Was on duty yesterday so spent a lot of time thinking and reading and figuring out what the next steps are.
+	Most of those next steps involved money, so I spent today trying to figure out how the hell I should do stripe payments.
+	Wound up losing the battle to php this morning, then losing the battle to javascript and webhooks in the afternoon, but now, at 3 in the morning, I have added the ability for people to purchase access for someone else. I believe this will be an important way to fund things.
+
+	I also went and bought mailchimp access, but I didn't configure anything yet. I definitely should tomorrow.... then I need to finish writing copy this weekend so that I can start sending my sales emails for my newly paid courses.... pretty exciting, and happy it is moving.
+
+	now time to sleep. its 3 in the morning.
+
+03 May	Nicely added the google forms thing for gift, autopopulating with session ID
+04 May	I am dedicating myself to marketing, thoughts over there are being recorded separately. I dont want to do it but I know it is a neseecary evil.
+	I made a few course edits I am interested in, first, I moved goals forward to the front of the course and made them more aspirational. The idea being I can engage people on their goals immediately to build a connection, and then work from there.
+	Secondly, I moved learning to the front as well, again, distinguishing my course.
+ 	Third, I am working on the idea of building community in Slack.. Might move to discord actually, slack just doesnt have that flavor anymore.

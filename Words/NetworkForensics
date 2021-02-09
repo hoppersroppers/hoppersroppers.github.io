@@ -1,0 +1,110 @@
+Prerequisites: Networks, Media Forensics
+
+
+Logging References:
+
+A.	http://csrc.nist.gov/publications/nistpubs/800-86/SP800-86.pdf  Ch. 6
+B.	https://www.owasp.org/index.php/Logging_Cheat_Sheet
+C.	http://www.nojitter.com/post/240151667/network-redundancy-or-resilience
+
+
+I.	Logging
+A.	Architecture
+1.	Explain the layers and their significance in Network Forensics[ref. a]
+2.	Discuss various log sources.  [ref. a][ref. b]
+3.	Explain the importance of network visibility and the difference between resilience and redundancy [ref. a] [ref. c]
+
+
+Wireshark References:
+A.	Wireshark Tutorial
+B.	Wireshark Network Analysis: The Official Wireshark Certified Network Analyst Study Guide (Tactically Acquired)  or on Safari Books Online
+C.	http://www.tcpdump.org/tcpdump_man.html
+D.	Protocols and What They’re Used For
+E.	https://www.wireshark.org/docs/wsug_html_chunked/ChapterCapture.html
+F.	https://wiki.wireshark.org/Security
+G.	https://wiki.wireshark.org/CaptureSetup/CapturePrivileges
+practical packet analysis
+II.	Wireshark
+A.	Basics
+1.	Discuss Wireshark and its uses.
+2.	Complete Wireshark Tutorial Part 1: Capturing
+3.	Complete Wireshark Tutorial Part 2: Display Preferences
+4.	Complete Wireshark Tutorial Part 3: Stream Visualization
+5.	Complete Wireshark Tutorial Part 4: Filtering
+6.	Complete Wireshark Tutorial Part 5: Following Streams
+7.	Complete Wireshark Tutorial Part 6: Exporting
+8.	Define the following application protocols: [ref. d]
+How Wireshark Works:
+	Get rid of the magic
+Detailed Building Blocks:
+
+Challenge Protocols:
+a)	FIX THE PROTOCOL
+(1)	TCP
+(2)	UDP
+(3)	SSL
+b)	SSH, TLS
+c)	TELNET 
+(1)	HTTP, HTTPS
+(2)	DNS
+(3)	DHCP
+d)	FTP, TFTP, SFTP, RCP, SCP
+e)	SMB
+f)	POP3
+g)	SMTP, IMAP
+h)	NETBIOS 
+i)	SNMP 
+j)	IRC
+k)	LDAP
+l)	NTP
+(1)	ICMP
+m)	RDP
+n)	SIP 
+o)	L2CAP
+p)	USB
+9.	DISCUSS MORE SHIT
+10.	Discuss the security risk of running Wireshark as root.  [ref. f]  [ref. g] 
+11.	
+Tools References:
+A.	tShark Tutorial
+a.	https://www.wireshark.org/docs/man-pages/tshark.html
+b.	http://www.linuxjournal.com/content/using-tshark-watch-and-inspect-network-traffic
+c.	https://hackertarget.com/tshark-tutorial-and-filter-examples/
+B.	pcapn
+a.	http://pcapng.com/
+b.	https://stackoverflow.com/questions/17995186/convert-pcap-pcap-ng-pcap-ng-tools-libraries
+c.	https://stackoverflow.com/questions/8092380/export-pcap-data-to-csv-timestamp-bytes-uplink-downlink-extra-info
+C.	http://www.netresec.com/?page=NetworkMiner
+D.	http://www.ghacks.net/2009/01/23/monitor-your-network-the-open-source-way-with-etherape/
+E.	http://resources.infosecinstitute.com/xplico/
+F.	https://www.paterva.com/web6/products/maltego.php
+a.	http://holisticinfosec.blogspot.com/2010/04/malware-behavior-analysis-studying.html
+G.	Net Forensics OSINT
+H.	http://ferryas.lecturer.pens.ac.id/NetSa_Papers/UsingSnort.pdf
+
+
+III.	Tools
+A.	tshark
+1.	Complete Tshark Tutorial. [ref. a]
+2.	Discuss tShark and what situations you would use it. [ref. a]
+B.	Other Tools
+1.	Understand the difference between pcap, pcapn, and csv, and how to convert between them. [ref. a, ref. b]
+2.	Discuss netWorkMiner and what situations you would use it. [ref. c]
+3.	Discuss Etherape and what situations you would use it [ref. d]
+4.	Discuss xplico and what situations you would use it [ref. e]
+5.	Discuss Maltego and what situations you would use it [ref. f]
+6.	Discuss various OSINT tools and what situations you could use them. [ref. g]
+7.	Discuss how you could use an IDS for network forensics. [ref. h]
+
+
+
+
+
+
+IV.	Problems
+A.	File Transfer
+1.	https://shell.cyberstakesonline.com/static/13547abe9fe77aaee7487d352dc589be/traffic.pcap
+B.	Decrypting SSL with key 
+1.	https://shell.cyberstakesonline.com/static/cd96cb17343cad03a3d0d2156a4960a0/ssl_is_secure.pcap
+C.	Phishing 
+1.	CDX 2015 Net Forensics(shortened)

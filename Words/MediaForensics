@@ -1,0 +1,217 @@
+References:
+
+[0]	
+[a]	http://www.abchs.com/xsecure/chs/coursedocs/SSI_R1/pdf/DigitalForensics.pdf
+[b]	https://en.wikipedia.org/wiki/File_system
+[1]	
+[a]	http://www.forensichandbook.com/locards-exchange-principle/
+[b]	http://science.howstuffworks.com/locards-exchange-principle2.htm
+[2]	
+[a]	http://www.forensicdna.com/assets/the_origin_of_evidence.pdf
+[3]	
+[a]	https://www.law.cornell.edu/wex/daubert_standard
+[b]	http://www.forensicsciencesimplified.org/legal/daubert.html
+[c]	https://www.law.cornell.edu/wex/frye_standard
+[d]	http://www.forensicsciencesimplified.org/legal/frye.html
+[4]	 
+[a]	https://www.ietf.org/rfc/rfc3227.txt
+[5]	 
+[a]	https://www.govtechworks.com/chain-of-custody-how-to-ensure-digital-evidence-stands-up-in-court/#gs.yEpBzTA
+[b]	http://www.infosecwriters.com/Papers/CWalker_Computer_Forensics_to_Court.pdf
+______________________________________________________________________________
+
+1.	Explain the scientific method and Locard’s Exchange Principle
+a.	Task:  Board Question [ref. a, b]
+
+2.	Explain the six parts of the Inman-Rudin Paradigm
+a.	Task: Board Question [ref. a]
+
+3.	Explain the Daubert and Frye Standards and which is more prevalent
+a.	Task: Board Question [ref. a, b, c, d]
+
+4.	Walk through the collection steps and explain the order of triage and why, using terms of order of volatility. 
+a.	Task: Board Question [ref. a]
+
+5.	Explain the importance of chain of custody, write blockers, and hashes.
+a.	Task: Board Question [ref. a, b]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+0.	 
+1.	 
+a.	FileSystemChart.docx
+b.	https://en.wikipedia.org/wiki/Comparison_of_file_systems
+c.	https://en.wikipedia.org/wiki/MAC_times
+2.	 
+a.	HardDriveWorksheet.docx
+b.	https://en.wikipedia.org/wiki/Cylinder-head-sector
+c.	http://forensicswiki.org/w/images/7/79/Maxtor_Disk_Geometry.pdf
+d.	https://en.wikipedia.org/wiki/Solid-state_drive
+e.	https://en.wikipedia.org/wiki/RAID
+3.	 
+4.	
+a.	UnixFileSystemDiagram.docx
+b.	WindowsFileSystemDiagram.docx
+c.	http://tldp.org/LDP/tlk/fs/filesystem.html
+d.	http://ntfs.com/ntfs_basics.htm
+5.	 
+6.	
+a.	http://www.howtogeek.com/184659/beginner-geek-hard-disk-partitions-explained/
+b.	http://www.go4as400.com/Source-physical-file-and-logical-file-in-as400/files.aspx?cid=666
+7.	
+a.	https://en.wikipedia.org/wiki/Disk_formatting
+b.	https://en.wikipedia.org/wiki/Disk_partitioning
+8.	
+a.	PartitioningWorksheet.docx
+b.	http://www.rmroberts.com/FTP_files/CSR2012/MBRandEFIDiskPartitionSystemsMay2012.pdf
+
+File System Overview
+1.	Fill out chart for the different file systems and be able to explain the differences between them
+a.	NTFS File System, FAT File System, HFS+, Ext2/3/4,
+b.	Task: FileSystemChart.docx
+c.	Reference: https://en.wikipedia.org/wiki/Comparison_of_file_systems
+d.	Reference: https://en.wikipedia.org/wiki/MAC_times
+2.	Fill out hard drive disc structures worksheet 
+a.	Task: HardDriveWorksheet.docx
+b.	Reference: https://en.wikipedia.org/wiki/Cylinder-head-sector
+c.	Reference: http://forensicswiki.org/w/images/7/79/Maxtor_Disk_Geometry.pdf
+d.	Reference: https://en.wikipedia.org/wiki/Solid-state_drive
+e.	Reference: https://en.wikipedia.org/wiki/RAID
+3.	Understand the BIOS and Boot sequence. 
+a.	Task: 
+b.	Reference: 
+4.	Diagram how things are saved in Windows and Unix systems and explain the difference between erased and deleted for both
+a.	Task: UnixFileSystemDiagram.docx
+b.	Task: WindowsFileSystemDiagram.docx
+c.	http://tldp.org/LDP/tlk/fs/filesystem.html
+d.	http://ntfs.com/ntfs_basics.htm
+5.	Fill out worksheets for Windows and Unix Filesystems
+a.	Task: WindowsFilesystem.docx
+b.	Task: UnixFilesystem.docx
+c.	Reference: https://en.wikipedia.org/wiki/Directory_structure
+d.	Reference: https://en.wikipedia.org/wiki/Unix_filesystem
+6.	Understand the difference between logical and physical drives as well as the difference between logical and physical files
+a.	Task: Board Question
+b.	Reference: http://www.howtogeek.com/184659/beginner-geek-hard-disk-partitions-explained/
+c.	http://www.go4as400.com/Source-physical-file-and-logical-file-in-as400/files.aspx?cid=666
+7.	Explain the steps that occur when a hard drive is formatted or partitioned and what happens to data on that disc 
+a.	Task: Board Question
+b.	Reference: https://en.wikipedia.org/wiki/Disk_formatting
+c.	Reference: https://en.wikipedia.org/wiki/Disk_partitioning
+8.	Demonstrate understanding of partitioning by filling out partitioning worksheet
+a.	Task: PartitioningWorksheet.docx
+b.	Reference: http://www.rmroberts.com/FTP_files/CSR2012/MBRandEFIDiskPartitionSystemsMay2012.pdf
+Evidence Acquisition and Preliminary Analysis:
+1.	Set Up a SANS Investigative Forensic Toolkit Virtual Machine 
+a.	Task: Setup VM
+b.	Reference: https://digital-forensics.sans.org/community/downloads
+2.	Mount various image types
+a.	Image File: imageFile.iso, imageFile.E01, imageFile.dd
+b.	Task: Mount hard drive, submit hash of ____.txt in each.
+c.	Reference: https://digital-forensics.sans.org/blog/2009/02/19/digital-forensic-sifting-how-to-perform-a-read-only-mount-of-evidence/
+d.	Reference: https://digital-forensics.sans.org/media/sift_cheat_sheet.pdf
+3.	Learn how to use Mantaray
+a.	Task: Run Mantaray on imageFile.dd, hash report, submit
+b.	Reference: https://sift.readthedocs.io/en/latest/tools/mantaray.html#how-to-run-mantaray
+c.	Reference: Some sorta tutorial
+4.	Create a log2timeline(plaso) timeline
+a.	Task: Create timeline, hash timeline, submit hash
+b.	Reference: https://digital-forensics.sans.org/blog/2011/12/07/digital-forensic-sifting-super-timeline-analysis-and-creation
+5.	Create a Shadow Timeline
+a.	Task: Create timeline, hash timeline, submit hash
+b.	Reference: https://digital-forensics.sans.org/media/sift_cheat_sheet.pdf
+6.	Complete Autopsy Tutorial using  imageFile.E01
+a.	Task: Submit MD5 hash of image
+b.	Resource: https://digital-forensics.sans.org/blog/2009/05/11/a-step-by-step-introduction-to-using-the-autopsy-forensic-browser/
+
+Evidence Locations
+http://www.iacis.com/SiteAssets/Documents/2015%20BCFE%20Program%20Description%20and%20Syllabus%20Final.pdf
+
+1.	Understand the purpose and structure of the component files that create the Windows registry
+a.	Task: Complete Tutorial and submit hash of _______
+b.	Resource: http://resources.infosecinstitute.com/registry-forensics-regripper-command-line-linux/
+2.	 Mount and examine volume shadow copy
+a.	Task: Mount Shadow Copy
+b.	Task: Find _____
+c.	Resource: 
+3.	Complete volatility tutorial
+a.	Task Submit ____ from ______
+b.	Resource: Scanned Pages from SANS book
+4.	Recover all images from a system, as well as all thumb caches
+a.	Task: _________
+b.	Resource: 
+5.	 Be able to analyze the recycle bin. 
+a.	Task: _________
+b.	Resource: 
+6.	Be able to extract and view Windows event logs. 
+a.	Task: Download Event Log Explorer from http://eventlogxp.com/
+b.	Task: Open _____ and find ____.
+c.	Resource: ____________
+7.	File Carving from unallocated space
+8.	Understand the link, prefetch,jump list files, and shellbags and the evidence they may contain. 
+a.	Task: Board Questions
+b.	Resource: http://forensicswiki.org/wiki/LNK
+c.	Resource: https://www.magnetforensics.com/computer-forensics/forensic-analysis-of-lnk-files/
+d.	Resource: https://www.magnetforensics.com/computer-forensics/forensic-analysis-of-prefetch-files-in-windows/
+e.	http://forensicswiki.org/wiki/Jump_Lists
+f.	https://www.magnetforensics.com/computer-forensics/forensic-analysis-of-windows-shellbags/
+9.	Understand the Windows swap, page and hibernation files and the evidence they may contain. 
+a.	Task: Board Questions
+b.	Resource: http://archive.techarp.com/showarticle1776.html?artno=143&pgno=1
+c.	Resource: http://www.howtogeek.com/196238/how-big-should-your-page-file-or-swap-partition-be/
+d.	Resource: http://www.forensicswiki.org/wiki/Hiberfil.sys
+e.	Resource: https://superuser.com/questions/660649/how-to-read-windows-hibernation-file-hiberfile-sys-to-extract-data
+10.	Email Headers
+a.	Task: Submit the X-Originating-IP the email was sent from
+b.	Resource: GhostPlebeEmail.txt
+c.	Resource: https://mediatemple.net/community/products/dv/204643950/understanding-an-email-header
+11.	Exif data from Image
+a.	Task: Submit the GPS coords and time the <image> was taken at
+b.	Resource: http://exifdata.com/
+
+
+Anti-Forensics:
+1.	Explain various methods of hiding data(encryption, steganography)
+a.	Task: Board Question
+b.	Reference:
+2.	Explain various methods of deleting data(deletion, overwriting, degaussing, thermite)
+a.	Task: Board Question
+b.	Reference:
+3.	Explain time-stomping and spoofing and ways to detect
+a.	Task: Board Question
+b.	Reference:
+Case Study:
+1.	Write out a two - three page report according to provided guidelines on 2015 CDX Case
+a.	Task: Write report
+b.	References: Image.__, Image2.__, Image3.__
+c.	Reference:: https://digital-forensics.sans.org/blog/2010/08/25/intro-report-writing-digital-forensics/
+
+http://www.cram.com/flashcards/itsy-2343-computer-forensics-exam-2-ch-5-1947007
+http://www.cram.com/flashcards/itsy-2343-computer-forensics-exam-1-ch-1-4-1917294
+
+12.	Correlate USB to a computer
+a.	Resource: https://www.magnetforensics.com/computer-forensics/how-to-analyze-usb-device-history-in-windows/
+
+Final Tasks:
+Complete these 5 Challenges, following the writeups:
+Yaar Haar Fiddle De Dee

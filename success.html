@@ -1,0 +1,98 @@
+---
+layout: default
+title: Home
+---
+
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="js/index.js" data-rel-js></script>
+  <script src="js/jquery.js"></script>
+
+
+
+
+    	<div class="jumbotron text-center">
+	    <!--<img alt="Hopper Icon" src="https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/grace-hopper-154833_960_720.png" width="220" />-->
+		<h1>Thank you for giving the gift of knowledge! </h1>
+
+
+		<h2>You have set the recipient up for future success.</h2>
+<h3> <a class="btn btn-lg btn-default" href="/gift.html"> <b> Purchase another? </b></a></h3>
+
+	</div>
+
+    <!-- Page Content -->
+<div class="container">
+  <div class="row">
+
+    <body>
+        <div class="sr-root">
+          <div class="sr-main">
+            <header class="sr-header">
+              <div class="sr-header__logo"></div>
+            </header>
+            <div class="sr-payment-summary completed-view">
+              <h1>Your payment succeeded</h1>
+              <h4>Checkout Session ID: <span id="session"></span></h4>
+            </div>
+
+        </div>
+        <script>
+          // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
+          var PUBLISHABLE_KEY = "pk_live_MtUK4X7S1Jim9Pjz5yDPvu0E00HmDqZSUn";
+
+    
+
+          var stripe = Stripe(PUBLISHABLE_KEY);
+          var urlParams = new URLSearchParams(window.location.search);
+
+          if (urlParams.has("session_id")) {
+            var sessid = urlParams.get( "session_id" );
+            document.getElementById("session").textContent = sessid;
+          }
+
+        </script>
+
+        </div>
+        </div>
+
+        <div class="row">
+          <br>
+          <p> You should recieve an email in the next 5 minutes with your receipt. Your gift of knowledge will be heading to your recipient by 0700 PST tomorrow morning. </p>
+          <br>
+          <p> If you want to add a personalized letter, fill in this form below. </p>
+
+</div>
+
+	      <div class="row text-center">
+          <br>
+
+	  <iframe src="" id=link width="640" height="955" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    <script>
+      // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
+
+      var urlParams = new URLSearchParams(window.location.search);
+
+      if (urlParams.has("session_id")) {
+        var sessid = urlParams.get( "session_id" );
+        document.getElementById("session").textContent = sessid;
+      }
+      var urlFill = "https://docs.google.com/forms/d/e/1FAIpQLSeeULuNDegKSgB7vfcq8iymnbswNKNHGcMUzW_C-j2HqmG9_w/viewform?usp=pp_url&entry.1027922647="
+      urlFill = urlFill + sessid;
+
+      document.getElementById('link').src = urlFill;
+
+    </script>
+	  </div>
+
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="js/index.js" data-rel-js></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+
+
+
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>

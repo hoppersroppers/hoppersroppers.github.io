@@ -1,0 +1,73 @@
+Reverse Engineering
+
+●	Cpu architecture
+○	Know basic components of CPU such as ALU, Registers, ROM, instruction fetch, decode units.
+○	Understand basics of how a processor works: fetch, decode, execute
+ref: Lesson 02: Introduction to Microcontrollers
+●	Understand x86 register components
+			ref: “Registers” by Danny Flack
+●	Be able to describe the difference between source code, assembly and object code
+ref: http://www.c4learn.com/c-programming/source-vs-object-code/
+○	Be able to describe the difference between compilers, assemblers, disassemblers and decompiler
+	ref: https://en.wikibooks.org/wiki/X86_Disassembly/Disassemblers_and_Decompilers
+●	Be able to look up and understand what an assembly mnemonic does
+○	ref: “Inscructions.pdf” - Danny Flack 
+○	ref: http://x86.renejeschke.de/
+
+●	Capable and knowledgeable in the usage, features, and applicability of the following reverse engineering tools and methods:
+○	Linux
+■	objdump
+●	Use to disassemble a given ELF file
+●	ref: man objdump
+●	ref:https://sourceware.org/binutils/docs/binutils/objdump.html 
+■	gdb	
+●	Use to run and examine memory of a program
+●	Understand the use of this debugger
+●	ref:http://www.thegeekstuff.com/2010/03/debug-c-program-using-gdb/ 
+■	readelf
+●	Use to access an ELF header
+●	Be able to identify the starting location, binary sections, and the permissions of these sections (NX on the stack for example)
+●	ref:http://www.linuxforums.org/articles/understanding-elf-using-readelf-and-objdump_125.html 
+■	radare
+●	Opening, running, and disassembling a binary. 
+●	Compare to GDB
+●	ref:http://www.radare.org/r/docs.html 
+○	Windows
+■	IDA
+●	Open an ELF, PE32, etc files and understand basic navigation
+●	ref:http://securityxploded.com/reversing-basics-ida-pro.php 
+●	ref:http://resources.infosecinstitute.com/basics-of-ida-pro-2/ 
+■	Ollydbg 
+●	Open a PE32 and understand where things are on the screen and the similarities in operation to GDB/radare
+●	ref:http://resources.infosecinstitute.com/debugging-fundamentals-for-exploit-development/ 
+
+●	Understands and can draw out a stack diagram depicting a program's execution to include the locations of local function variables, function arguments, the basic function call procedure, and the basic stack layout.
+○	ref: “Registers” by Danny Flack
+○	http://stackoverflow.com/questions/2466170/drawing-a-stack-frame-for-x86-assembly 
+○	https://en.wikibooks.org/wiki/X86_Disassembly/The_Stack 
+●	Capable of using advanced features in GDB to include the following:
+○	breakpoints, watches
+○	viewing memory
+■	formats
+○	memory mappings
+○	ref:https://www.cs.cmu.edu/~gilpin/tutorial/ 
+●	Introduced to and capable of recognizing common programming statements in assembly code (for,while, if/else)
+○	ref: “Instructions.pdf” - Danny Flack 
+○	ref:https://en.wikibooks.org/wiki/X86_Disassembly/Loops 
+○	ref:https://en.wikibooks.org/wiki/X86_Disassembly/Branches 
+●	From this point on we’ll have varying levels of examples(challenges)
+○	once completed will prove beginner, journeyman and advanced skill levels
+●	Challenges (Cyberstakes)
+○	yoda
+○	asmtosie0
+○	asmtosie1
+○	crackme-1
+○	crackme0
+○	crackme1
+○	mission impossible 0
+○	superstring
+○	bytecode
+○	mission impossible 2
+○	asmtosie2
+○	bigkey
+○	bytecode 2

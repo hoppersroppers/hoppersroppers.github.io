@@ -1,0 +1,134 @@
+Everything I Did Wrong While Launching My Free Online Education Platform
+
+Six months ago I first publicaly posted about a platform I had built to deliver free online training on computing and security fundamentals. As of today, Roppers Academy has 400 registered students and is averaging growth of 30 users a week.
+
+During the last six months, I have done just about everything wrong in terms of running a startup I can imagine, but this story does not start six months ago.
+
+This story starts back in 2015, because I spent four years making the single worst decision a startup can make... waiting for the product to be perfect.
+
+The story begins back in college, where I was assigned to be the training officer for my school's competitive cyber security team. We were faced with a challenge: how do you train a large number of newcomers to the team without taking up all of the training time of the more advanced members?
+
+To do that, I decided that the team needed a curriculum that put a new student on railroad tracks, gave them exactly what they needed to learn and how to learn it, and then the only thing the teachers would have to provide would be answering questions.
+
+Easier said than done.
+
+I started with the simple part, creating the list of topics that I wanted students to learn. Then I went and looked for the best resources on the subjects. Then I found more things that I wanted to teach. This cycle lasted for two years.
+
+[ Hindsight 1: there is literally infinite information on the internet, and new stuff is being created every day. Trying to be on the cutting edge and reading every article/list/resource that comes out is not making you or your material better, you are procrastinating.  ]
+
+
+By the end of my time at school, I was sort of happy with the curriculum and was ready to get it to students. At this time it was sitting in a GitHub repo, ready to go. After a bit of research on which platform I should go with, I decided on using the Moodle LMS because it was open source and infinitely customizable. I felt like I needed that as a hacker.
+
+[ Hindsight 2: I could have had all of the material I made ready to go on a platform like Teachable in under a day. However, I didnt want to host my material on a platform I did not control, and felt that I needed access to everything to teach the way that I wanted to. (With that said, I love the custom platform I have built now and while it is still up in the air, I am very happy to have total control.) ]
+
+With all that work left to do on making the Moodle platform suit my needs, life got in the way and I spent the next two years driving boats in San Diego. I used some of my free time to work on the project and fiddle around with content, but for the most part I was occupied.
+
+Finally I came back from deployment (round 2: ballistic boogaloo) and started making the moves I needed to get this done. I went and registered the domain and made the webpage.
+
+[ Hindsight 3: I wasted, and continue to waste a ridiculous amount of time on my damn static website. I should have gone with a sitebuilder like Wix from day one. The site in it's current state is not professional or well designed, and figuring out front end dev has been hell. ]
+
+I also finally went and built the Moodle server. Personalizing and adding the courses wasn't terrible, but then I went and wrote a bunch of custom code to make the site do what I wanted it to do. I need more thoughts here. ____
+
+[ Hindsight 4: This is the only part of my entire journey so far I am glad I did the way that I did. Preferably I would have started on Teachable and moved here once I had the time to do custom dev. If you are interested in owning your education platform, click here for more information.]
+
+I still hadn't launched. At this point I felt very confident that I had the best course on the internet for teaching computing and security fundamentals. But I still did not have a single person registered. I had been working on this for about _______ months, and the material itself for ______ years.
+
+At this time, I finally realized that I had an opportunity to transfer out of the boat driving side of the navy and into the Navy's Cyber Warfare engineer program, a highly technical developer program. I needed to spend the next few months preparing for the interview because I hadnt done anything technical in years, and if I didn't launch now, it was never going to happen. (I'm working on some courses that go over my prep process here)
+
+So on Nov 6th, not a day I chose for any real reason, I went and launched to my Twitter audience of 150 people I didn't know and two Slacks I participated in.
+
+[ Hindsight 5: I barely used my Twitter before this (and I still don't, which will be a topic in another post) and I didn't have a mailing list to email out to. If fact, I only created a mailing list and added ways to signup the day after I launched.]
+
+But for a wrap up of the first four years of the existence of this project, let's go over where I went wrong again.
+
+1. I spent too much time getting the material perfect, when it reached Pareto efficiency of 80% probably about a year in.
+2. I didn't believe any existing solution was good enough to host my vision, so I delayed making the material available anywhere for TWO YEARS because of the work I still "needed" to do.
+3. I did all the front end development for my website myself, despite having zero ability or design sense.
+4. I launched to an audience of less than 300 people, of whom nobody cared about me or had any reason to listen.
+
+I likely could have had a course better than anything else on the internet on a Teachable site with a Wix site pointing to it and collecting emails for my mailing list by the middle of 2017. Instead... it is launch day, Nov 6, 2019.
+
+Part 2:
+_________________________________________________________________________
+Part 2:
+
+Everything people say about launch days is true, it is a pretty crazy feeling.
+
+Watching those numbers tick up to ... 50 users and 5 signups was pretty exciting, despite the diminutive numbers. All things considered, 10% conversion rate wasn't bad. Had to have been doing something right.
+
+A notable statistic is that I had 55% mobile traffic, which meant that my insistence to not launch until mobile looked good to go was the right one.
+
+Within the first day, I realized I was having a trouble with students registering and not being able to enroll in a course. I made some changes and added directions.
+
+[ If anything a user is doing requires them to read  directions in the first 15 minutes on your site, something is horribly, horribly wrong. I only fully automated this process in March, probably lost a lot of initial users this way.]
+
+As mentioned in my _last post_, I had an opportunity to transfer into ....
+
+As a result, after the first week, I put the course on autopilot and took a very laid back approach to growth.
+First, I set up a couple of things in Tweetdeck to monitor for keywords like "security", "education", "cyber", "resources",etc. Then I would check every day or so for hits on those keywords and I would jump in to provide some assistance, usually by providing a link to my site. Then, if I got retweeted by the right people, Id get a couple hundred new visitors.
+
+
+[ I still do this, and it remains my single best avenue for growth. This demonstrates a pretty immature model, but it gets immediate, though generally short term results. ]
+
+For the day to day, I would check to see if any work had been submitted, make sure no students were registered but not enrolled, and then message new students. I got a ton of feedback on various broken parts of the experience this time, usually from the one or two students who were out in front, which allowed me to get ahead of problems.
+
+There was very little traffic or growth over this time period as it was very passive. One interesting anecdote is that I tweeted about the malware framework I was writing and linked to the course, getting 220+ clicks.
+
+[ 	Despite this surge of traffic, only got 4 conversions at that time. which makes sense, because they were not targeted clicks of students, but instead, clicks from people who care about malware. This teaches a great lesson on the importance of traffic from target users.]
+
+During this time I experimented with manually sending retention and onboarding emails, along with using Zapier and Mailchimp, but it was more effort than it was worth.
+
+[ I wound up doing this eventually and with a combination of mailchimp and a custom emailer script, and now I have onboarding and retention lifecycle emails. Note: that doesn't mean that they are effective, just that I have them.]
+
+This was a period of stagnant growth, but I learned a lot of important lessons and made a lot of changes to the curriculum. The most significant of these was that I actually split my initial course into two separate courses. Turns out that "everything you need to know", while true, was too broad. Now my courses are split into Computing Fundamentals and Security Fundamentals.
+
+[ This might have been the most important change that I made, as it was a huge philosophical shift. This was the first time I realized that what I wanted was different than what users wanted, and more importantly, what users would sign up for. By adding specificity, people had a better idea of what they were signing up for.]
+
+While I spent plenty of time 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I then went and abandoned work on the site for the next few months as I worked on preparing for the technical interview, answering questions and making minor edits to material as students had questions or comments.
+
+During this time I was very productive in my actual studies, went and relearned C, finally got a hang on assembly, and wrote a pretty decent custom rootkit in C. If you're gonna try to impress some hackers, gotta go in.
+
+<me after the interview>
+
+[ I am in the process of turning my study over that period of time into two separate courses, one to teach C/Assembly/Reverse Engineering and one to teach how to write a basic rootkit. Sign up for them here. ]
+
+During that time of benevolent neglect the only marketing I did for it was posting a link to it pretending that it was the source code to the backdoor I was writing <embed>. It got a ton of clicks, but only 4 conversions.
+
+[ It was a throwaway marketing attempt, but it taught a valuable lesson. A few hundred clicks from people who aren't your target audience is basically useless. Marketing needs to be targeted.]
+
+The other nice thing about the very slow growth there was that I was able to catch a lot of problems and work more closely with students. I had a few major changes, fixing the signup flow so it was more intuitive and adding mailchimp signups all over the site. That added a nice noncommital way for people to stay vaguely updated without having to register.
+
+[ Having a mailing list is amazing, don't ever have a website without one. Even if all you have are random blogs, if people show up on your ship you should try to find a way to capture that. There are like 1000 articles about why you should have a mailing list, but they're all marketing nerds, so listen to me. Hava a mailing list.]
+
+Anyway, after that interview was done I went and was ready to get back into it. I decided to go and increase my twitter engagement by setting up a tweetdeck with a series of filters that got me relevant traffic. By identifying people asking for resources and others sharing resources, I was able to hop into threads and offer up my site. Then, if I got retweeted by the right people, Id get a couple hundred new visitors, and importantly, targeted visitors.
+
+[ Twitter was my primary means of growth for a long period of time, but took a lot of effort and I do not think it was particularly effective. It did add a decent amount of followers, but they were all very temporary. I should have been doing something to move the needle permanently. ]
+
+My growth was fairly steady but was requiring a decent amount of work. Worse, most of my students were leaving immediately and retention was miserable.
+
+
+________________________________________________________

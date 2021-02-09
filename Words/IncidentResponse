@@ -1,0 +1,103 @@
+Introduction:  
+http://iatraining.disa.mil/eta/cyber-protect/launchpage.htm
+
+Prerequisites: Media Forensics, Network Forensics
+
+References:
+a)	https://powhatan.iiie.disa.mil/cyber_tools_training/ctt/cgov.asp
+b)	
+c)	http://insecure.org/stf/smashstack.html
+
+
+●	Threat Intelligence
+○	What is threat intelligence and how is it used? 
+■	https://www.sans.org/reading-room/whitepapers/analyst/cyberthreat-intelligence-how-35767
+○	Fill out an intel sheet on a randomly selected APT group
+○	Define the following and be able to explain their organization, techniques, and motivations
+■	APT
+■	Organized crime
+■	Hacktivists
+■	Skids
+○	Explain threat modeling
+○	What are indicators of compromise and why are they important?
+■	Atomic, behavioral, computed
+■	Create an openIOC signature for a specific malware family
+■	Create yara rules for the same family
+○	Explain the indicator life cycle
+●	IR Theory
+○	Know the kill chain, as well as the arguments against it. Be able to explain which step is the most important
+■	http://www.darkreading.com/attacks-breaches/deconstructing-the-cyber-kill-chain/a/d-id/1317542
+■	http://www.darkreading.com/attacks-breaches/leveraging-the-kill-chain-for-awesome/a/d-id/1317810
+○	Explain the difference between reactive response and hunting and the processes associated
+■	https://sroberts.github.io/2015/04/14/ir-is-dead-long-live-ir/
+■	
+○	How does the Navy do IR? ORT in “depth”
+
+●	Remote system analysis
+○	Explain the necessity of scalable forensics
+○	Explain a remote access and remote analysis agent and compare benefits
+○	Google rapid response
+●	Persistence
+○	Define in ppt
+○	Know how to check easy stuff
+●	Processes	
+○	Something from find evil page
+○	Identify a malicious svchost
+●	Memory Forensics Theory
+○	Know the differences and locations between live system memory vs dead system memory
+○	Explain a cold boot attack and how it works
+●	Live Response and Triage-Based Acquisition Techniques
+○	Acquire RAM
+■	Acquire ram image with Memoryze
+●	https://www.fireeye.com/services/freeware/memoryze.html
+●	https://digital-forensics.sans.org/blog/2010/11/08/digital-forensics-howto-memory-analysis-mandiant-memoryze/
+●	Redline via usb
+○	Basic worksheet via SANS
+■	Belkasoft Live RAM Capturer
+■	Acquire linux ram with Lime
+●	https://github.com/504ensicslabs/lime
+●	https://www.youtube.com/watch?v=dSYcjsaTS2I
+○	Image hard drive
+■	Extract hard drive with FTK Imager
+●	http://accessdata.com/product-download
+●	http://malware-hunters.net/wp-content/downloads/Image-a-Disk-Using-FTK-Imager.pdf
+○	Virtual machines
+■	Acquire ram w/ ___________ and convert to ______
+■	Acquire hard-drive snapshot w/ ______ and convert to ________
+●	Malware detection in memory
+○	Automated Scanning
+■	Find me some malwares in live memory
+■	Find me some malwares in hard drive
+○	Automated rootkit hunting
+■	Find me a rootkit in live memory
+■	Find me a rootkit in hard drive
+○	Manual Memory Forensics
+■	Know the 6 step process to find malware in memory
+■	Explain the difference between redline, volatility, and rekall, and the scenarios in which one would use each
+■	Redline tutorial
+■	Volatility tutorial
+■	Rekall mini tutorial
+○	Virustotal - IOCBucket - IOC Editor - IOC scan in redline 
+●	Timeline Analysis
+○	Fill out the table for MACB NTFS and FAT
+○	Make a super timeline
+■	w/ packet capture 
+■	https://digital-forensics.sans.org/blog/2011/12/07/digital-forensic-sifting-super-timeline-analysis-and-creation
+
+●	Grr to Plaso to Timesketch 
+○	Install grr on remote hosts
+■	Call a flow
+○	Plasoify those records
+○	Timesketch those plasos
+○	Analyze
+○	https://www.youtube.com/watch?v=JciAp0uB7AY
+○	https://www.youtube.com/watch?v=ren6QSvwFvg
+○	https://digital-forensics.sans.org/summit-archives/dfirprague14/Collaborative_Timeline_Analysis_in_Large_Incidents_Johan_Berggren.pdf
+○	
+
+
+
+
+
+
+
