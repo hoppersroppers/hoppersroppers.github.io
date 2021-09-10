@@ -1,1179 +1,1487 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-	<loc>https://www.hoppersroppers.org/</loc>
-	<lastmod>2020-06-11T01:52:39+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/index.html</loc>
-	<lastmod>2020-06-11T01:52:39+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/index.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/about.html</loc>
-	<lastmod>2020-06-11T01:52:41+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/educators.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/training.html</loc>
-	<lastmod>2020-06-11T01:52:42+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/ctfTeams.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/course.html</loc>
-	<lastmod>2020-06-11T01:52:42+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/veterans.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/courseCTF.html</loc>
-	<lastmod>2020-06-11T01:52:42+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/about.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/courseSecurity.html</loc>
-	<lastmod>2020-06-11T01:52:42+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/training.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/bootcamp.html</loc>
-	<lastmod>2020-06-11T01:52:42+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/sponsors.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/course.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/partners.html</loc>
-	<lastmod>2020-06-11T01:52:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/courseCTF.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/help.html</loc>
-	<lastmod>2020-06-11T01:52:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/courseSecurity.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/community.html</loc>
-	<lastmod>2020-06-11T01:52:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/hardstuff.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/competition.html</loc>
-	<lastmod>2020-06-11T01:52:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/ctfNetworks.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/contact.html</loc>
-	<lastmod>2020-06-11T01:52:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/rootkit.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/guidelines.html</loc>
-	<lastmod>2020-06-11T01:52:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/library/</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/privacy.html</loc>
-	<lastmod>2020-06-11T01:52:43+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/help.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/tos.html</loc>
-	<lastmod>2020-06-11T01:52:44+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/sponsors.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/</loc>
-	<lastmod>2020-06-11T01:52:44+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/partners.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/courseFundy.html</loc>
-	<lastmod>2020-06-11T01:52:44+01:00</lastmod>
-	<priority>1.0</priority>
+  <loc>https://www.hoppersroppers.org/community.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/linux.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/competition.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/fundamentals.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/contact.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/security.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/trainCTFteam.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/python.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/startCTFteam.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/crypto.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/guidelines.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/hardstuff.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/privacy.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/pwning.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/tos.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/web.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/breakIntoSecurity.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/challs/bandit.html</loc>
-	<lastmod>2020-06-11T01:52:45+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/infosecCertRoadmap</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/challs/pythontest.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/fundamentals.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/roadmap/training/forensics.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/linux.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/python.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/0-startinganinfoseccareer.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/security</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/1-thisstuffishard.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/networking</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/2-hackerattitude.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/crypto.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/3-hackerethic.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/forensics.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/4-rtfm.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/c.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/6-questions.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/hardstuff.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/8-brainwashingandlearning.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/roadmap/training/pwning.html</loc>
+  <lastmod>2021-08-25T22:11:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_0/9-motivation.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/courseFundy.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/1-virtualization.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/bootcamp.html</loc>
+  <lastmod>2021-08-25T22:08:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/2-installvirtualizationsoftware.html</loc>
-	<lastmod>2020-06-11T01:52:46+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/howtohack/</loc>
+  <lastmod>2021-06-19T21:31:02+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/3-installubuntu.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/joinCTFteam.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/4-installvirtualizationtools.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/competencyBasedEdu.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/5-ubuntu.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/breakIntoTech.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/6-linuxselfdefense.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/thingsWorthDoing.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/7-learninglinuxcommands.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/infosecCertRoadmap.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/8-linuxjourneycommandline.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/library/interestingProjects.html</loc>
+  <lastmod>2021-09-10T21:35:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/9-linuxjourneytextfu.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/10-linuxjourneyadvancedtextfu.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/11-linuxjourneyusermanagement.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/ctf/</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/12-linuxjourneypermissions.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/CourseOverview/0-Description.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/13-linuxjourneyprocesses.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/CourseOverview/1-CourseLayout.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/14-linuxjourneypackages.html</loc>
-	<lastmod>2020-06-11T01:52:47+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/CourseOverview/2-RoppersYourResumeandPortfolioBuilding.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/15-linuxjourneyfilesystem.html</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/0-SecureYourselfNow.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/16-linuxjourneybootthesystem.html</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/1-Learning.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/17-linuxjourneykernel.html</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/2-ComputerRelatedHealth.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/18-linuxjourneydevices.html</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/3-GeneralWellness.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/19-aliases.html</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/4-Questions.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/20-netcatandssh.html</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/5-Why.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/21-manpages.html</loc>
-	<lastmod>2020-06-11T01:52:48+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/6-JoinourChatRoom.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/22-overthewirebandit.html</loc>
-	<lastmod>2020-06-11T01:52:49+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/7-CheckingIn.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/23-history.html</loc>
-	<lastmod>2020-06-11T01:52:49+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/8-SetYourLongTermGoals.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_1/24-maintainingmotivation.html</loc>
-	<lastmod>2020-06-11T01:52:49+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ImprovingYou/9-Motivation.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/0-history.html</loc>
-	<lastmod>2020-06-11T01:52:49+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/0-LetterfromtheAuthor.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/1-storage.html</loc>
-	<lastmod>2020-06-11T01:52:50+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/1-WhySecurity.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/2-communicationbasics.html</loc>
-	<lastmod>2020-06-11T01:52:50+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/2-Hoppers.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/3-representingdata1.html</loc>
-	<lastmod>2020-06-11T01:52:50+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/3-ROPpers.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/4-representingdata2.html</loc>
-	<lastmod>2020-06-11T01:52:50+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/4-CoreTenets.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/5-digitallogic.html</loc>
-	<lastmod>2020-06-11T01:52:50+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/5-Legal.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/6-processing.html</loc>
-	<lastmod>2020-06-11T01:52:50+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/6-JoinUs.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/7-hardwarebasics.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/SiteOverview/7-ThisSite.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/8-machinecodeandassemblycode.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/0-StartinganInfosecCareer.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_2/9-memory.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/1-ThisStuffisHard.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_3/0-howtotype.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/2-HackerAttitude.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_3/1-programminglanguages.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/3-HackerEthic.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_3/2-githelloworld.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/4-RTFM.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_3/3-python.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/5-Questions.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_3/4-pythonfromtheterminal.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/6-BrainwashingandLearningHardThings.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_3/5-moreprogramming.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Mindset/7-Motivation.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_3/6-usertestimonial.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/0-LinuxCertificate.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_4/0-operatingsystemspart1.html</loc>
-	<lastmod>2020-06-11T01:52:51+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/1-OperatingSystems.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_4/1-operatingsystemspart2.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/2-FirstAssignment.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_4/2-operatingsystemspart3.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/3-LinuxHistoryandUbuntu.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_4/3-filesystems.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/4-Virtualization.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_4/4-discpartitioningandbackingupdata.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/5-InstallVirtualizationSoftware.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_5/0-history.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/6-InstallUbuntu.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_5/1-windowscommandline.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/7-InstallVirtualizationTools.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_5/2-windowsfilesystems.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/BuildaLinuxLab/9-LongTermReviewandRetention.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_5/3-oscyberacestutorials.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/0-ManPages.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_5/4-processes.html</loc>
-	<lastmod>2020-06-11T01:52:52+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/1-Shells.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_5/5-bootprocess.html</loc>
-	<lastmod>2020-06-11T01:52:53+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/2-UpdatingLinuxandPackages.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_5/6-logs.html</loc>
-	<lastmod>2020-06-11T01:52:53+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/3-InstallingPrograms.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_6/0-history.html</loc>
-	<lastmod>2020-06-11T01:52:53+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/4-LearningLinuxCommands.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_6/1-commandline.html</loc>
-	<lastmod>2020-06-11T01:52:53+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/5-CommandLineBasics.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_6/2-usersandgroups.html</loc>
-	<lastmod>2020-06-11T01:52:53+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/6-ManPages.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_6/3-applicationsandservices.html</loc>
-	<lastmod>2020-06-11T01:52:53+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/7-BashInternalsandUnixPhilosophy.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_6/4-filesandpermissions.html</loc>
-	<lastmod>2020-06-11T01:52:53+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/8-BasicNetworkingTools.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_6/5-bootprocess.html</loc>
-	<lastmod>2020-06-11T01:52:54+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/9-OvertheWireBandit04.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_6/6-logs.html</loc>
-	<lastmod>2020-06-11T01:52:54+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/10-BurningQuestions.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/0-networking1.html</loc>
-	<lastmod>2020-06-11T01:52:54+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/12-MaintainingMotivation.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/1-networking2.html</loc>
-	<lastmod>2020-06-11T01:52:54+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/13-TextFu.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/2-dns.html</loc>
-	<lastmod>2020-06-11T01:52:54+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/14-TextEditors.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/3-cyberacesnetworking.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/15-Search.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/4-wireshark.html</loc>
-	<lastmod>2020-06-11T01:52:54+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/16-Regex.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/5-rfcs1.html</loc>
-	<lastmod>2020-06-11T01:52:54+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/17-OvertheWireBandit59.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/6-rfcs2.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/18-UsefulLinuxCommands.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_7/7-tcpipbook.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LinuxBasics/21-UserTestimonial.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/0-history.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/0-Abstraction.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/1-howitworkshosting.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/1-BitsandBinary.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/2-howitworksregistrars.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/2-ComputersareDeterministic.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/3-howitworksinternets.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/3-DigitalLogic.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/4-howitworkswebsites.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/4-FetchDecodeExecute.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/5-chromepoweruser.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/5-MachineCodeandAssemblyCode.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/6-internetpoweruser.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/6-HardwareHistory.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/7-privacyandsecurity.html</loc>
-	<lastmod>2020-06-11T01:52:55+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/7-HardwareBasics.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/8-wireshark.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/Hardware/8-HexandMore.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/fundamentals/chapter_8/9-databases.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/0-LinuxFilesystem.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/1-LinuxFilesystemHierarchy.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_0/0-thecompetitiveteam.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/2-ResizingYourVM.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_0/1-jeopardystyle.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/3-LinuxPermissions.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_0/2-jointheteam.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/4-PermissionsandUmask.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_0/3-whatyouwilllearn.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/5-Boredyet.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_1/0-basicprinciples.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/6-LinuxUserManagement.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_1/1-linuxandvms.html</loc>
-	<lastmod>2020-06-11T01:52:56+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/8-PasswordsandHashingOnLinux.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_1/2-programmingandscripting.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/9-HowtoType.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/0-ctfmeta.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/10-LinuxProcesses.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/1-representingdata1.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/11-OvertheWireBandit1015.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/2-representingdata2.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/12-AdvancedBashShell.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/3-filecarving1.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/13-BasicBashScripting.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/4-filecarving2.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/14-SubmitaWriteupandGetaCertificate.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/5-filecarving3.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/16-LinuxSelfDefense.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/6-filecarving4.html</loc>
-	<lastmod>2020-06-11T01:52:57+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/AdvancedLinux/18-UserTestimonial.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/7-filecarving5.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/0-ProgrammingCertificate.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/8-filemetadata.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/1-ProgrammingLanguages.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/9-filemetadata2.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/2-ModernIDE.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/10-steganography1.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/3-BasicNetworking.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_2/11-steganography2.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/4-HowtheInternetWorks.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_3/0-hostforensics.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/5-HowtheWebWorks.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_4/0-memoryforensics.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/6-GitHelloWorld.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/0-ctfmeta.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/7-GithubandCompilewithMake.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/1-wireshark.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/8-BuildaWebsitewithHTMLCSSandJavascript.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/2-tshark.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/9-InternetSelfDefense.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/3-networkingrfcs1.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/ProgrammingAndBuildAWebsite/12-AddtoyourWebsiteandMore.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/4-networkingrfcs2.html</loc>
-	<lastmod>2020-06-11T01:52:58+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/0-PythonBasics.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/5-netforensics1.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/1-PythonHelloWorld.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/6-netforensics2.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/2-CodecademyPython.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/7-netforensics3.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/3-Readyforsomesecurity.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/8-netforensics4.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/4-PythonandBash.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/9-netforensics5.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/5-AutomatetheBoringStuffChapter9.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/10-netforensics6.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/6-AutomatetheBoringStuffChapter10.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_5/11-netforensics7.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/7-AutomatetheBoringStuffChapter11.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/0-ctfmeta.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/8-AutomatetheBoringStuffChapter12.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/1-classicalciphers.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/9-CapstoneProjectandCertificate.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/2-frequencyanalysis.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/10-MoreProgramming.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/3-automatedfrequencyanalysis.html</loc>
-	<lastmod>2020-06-11T01:52:59+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/LearnPython/13-UserTestimonial.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/4-indexofcoincidence.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/NextSteps/0-ShowWhatYouKnow.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/5-caesarciphersandsubstitution.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/NextSteps/1-WheretoGo.html</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/6-vigenereciphers.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/fundamentals/.</loc>
+  <lastmod>2021-09-10T21:12:36+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/7-funciphers.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/CourseOverview/0-CourseDescription.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/8-moderncryptography.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/CourseOverview/1-TheSite.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/9-moderncrypto.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/CourseOverview/2-Legal.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/10-passwords.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecureYourselfNow/0-SecureYourselfNow.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/11-hashes.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecureYourselfNow/1-PasswordsandHaveIBeenPwned.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/12-xor.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecureYourselfNow/2-WhoisTrackingMe.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/13-rsa.html</loc>
-	<lastmod>2020-06-11T01:53:00+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecureYourselfNow/3-UpdateYourComputerandScan.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_6/14-thingsyoushouldnttrytodo.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Risk/0-CIANA.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/0-ctfmeta.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Risk/1-IntroductiontoRisk.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/1-howwebsite.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Risk/2-RiskModeling.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/2-underthehood.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Risk/3-YourThreatModel.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/3-sqlinjection.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/0-PeopleYouKnow.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/4-commandinjection.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/1-DataMinimization.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/5-directorytraversal.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/2-LinuxPasswordReset.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/6-crosssiterequestforgery.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/3-WindowsPasswordReset.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/7-crosssitescripting.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/4-TechnicalAttacks.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_7/8-serversiderequestforgery.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/5-LockpickingandSecurity.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_8/0-youwontlearnthathere.html</loc>
-	<lastmod>2020-06-11T01:53:01+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/6-OPSECandCompartmentalization.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/ctf/chapter_9/0-competeandlearn.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/RealWorld/7-DoxYourself.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/0-Authentication.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/1-introduction.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/1-PasswordComplexity.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/2-secondequation.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/2-PasswordManager.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/3-riskmodeling.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/3-MultiFactorAuthentication.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/4-riskassessment.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/4-SecurityQuestionsandAccountResets.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/6-ciatriad.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/5-HashingConfidentialitywithoutAuthentication.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/7-saltzerandschroeder.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/6-OutdatedExtensionsandPermissions.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/8-immutablelaws.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/7-Phishing.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/10-cyberkillchain.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/PasswordsandAuth/8-Miscellaneous.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/11-postexploitation.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Network/0-HostileNetworksIntro.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/12-pyramidofpain.html</loc>
-	<lastmod>2020-06-11T01:53:02+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Network/1-ProtectYourIPAddress.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/13-diamondmodel.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Network/2-IPProtections.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/14-advancedpersistentthreats.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Network/3-Encryption.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/15-malware.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Network/4-Metadata.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/17-architecture.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Network/5-ManintheMiddleIP.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/18-domainsofattack.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Network/6-SoVPNs.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/19-mechanismsofattack.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/0-NetworkArchitectureNotes.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/20-methodsofattack.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/1-CyberKillchain.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/21-penetrationtesting.html</loc>
-	<lastmod>2020-06-11T01:53:03+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/2-PostExploitation.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/22-advancedpentest.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/3-MalwareTypesandClassification.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/23-principlesintherealworld.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/4-RedvsBlueTeamJobs.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/24-wirelessattack.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/6-PhishingCaseStudyIP.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_0/25-webappattack.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/7-ExploitCaseStudyIP.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/1-alreadyhacked.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/8-WirelessAttackCaseStudyIP.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/2-antivirus.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/Hacking/9-WebAppAttackCaseStudyIP.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/3-processhunting.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/0-HowtoTellifYouareHacked.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/4-networkhunting.html</loc>
-	<lastmod>2020-06-11T01:53:04+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/1-AntiVirusBasics.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/5-yougottricked.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/2-ThreatHuntingBasics.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/6-outdatedextensionsandpermissions.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/3-LinuxNetworkHuntingLab.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/7-someoneelsegotowned.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/4-LinuxProcessHunting.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/8-malwareremoval.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/5-WindowsNetworkThreatHunting.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/9-taylorswiftsguidetosecuringyourcomputer.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/6-WindowsProcessHunting.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/11-passwords.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/DefenseAgainsttheDarkArts/7-MalwareRemoval.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/12-passwordmanager.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecuringYourself/0-Phishing.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/13-multifactorauthentication.html</loc>
-	<lastmod>2020-06-11T01:53:07+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecuringYourself/1-SecuringWindowsAccordingtoTaylorSwift.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/14-securityquestionsandaccountresets.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecuringYourself/2-SecuringLinuxAccordingtoDennis.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/15-morepasswordstuff.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecuringYourself/3-SupplyChainAttacks.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/17-hostilenetworksintro.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecuringYourself/4-HowtoHelpOthersBeSafeOnline.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/18-protectyourip.html</loc>
-	<lastmod>2020-06-11T01:53:05+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/0-ImmutableLaws.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/19-ipprotections.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/1-PyramidofPain.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/20-maninthemiddle.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/2-DiamondModel.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/21-encryption.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/3-DomainsofAttack.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/23-opsec.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/4-MethodsofAttack.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/24-compartmentalization.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/5-AdvancedPersistentThreats.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/25-physicalattacks.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/6-MechanismsofAttack.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/26-linuxpasswordreset.html</loc>
-	<lastmod>2020-06-11T01:53:06+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/7-LampsonPrinciplesintheRealWorld.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/security/chapter_1/27-windowspasswordreset.html</loc>
-	<lastmod>2020-06-11T01:53:07+01:00</lastmod>
-	<priority>0.6</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/8-RiskAssessment.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./</loc>
-	<lastmod>2020-06-11T01:53:07+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/9-MickensThisWorldofOurs.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./index.html</loc>
-	<lastmod>2020-06-11T01:53:07+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/security/SecurityPrincipleLibrary/10-Compartmentalization.html</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./about.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/security/.</loc>
+  <lastmod>2021-09-10T21:26:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./help.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CourseOverview/0-CapturetheFlagCourse.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./training.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CourseOverview/1-TheSite.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./community.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CourseOverview/2-Legal.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./competition.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CapturetheFlags/0-JeopardyStyle.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./contact.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CapturetheFlags/1-WhatYouWillLearn.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./sponsors.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CTFMeta/0-BasicPrinciples.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./partners.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CTFMeta/1-LinuxandVMs.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-	<loc>https://www.hoppersroppers.org/./guidelines.html</loc>
-	<lastmod>2020-06-11T01:53:08+01:00</lastmod>
-	<priority>0.8</priority>
+  <loc>https://www.hoppersroppers.org/ctf/CTFMeta/2-ProgrammingandScripting.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/0-CTFMeta.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/1-RepresentingData.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/2-PolyglotFiles.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/3-JPGAdventuresIP.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/5-FileCarving1.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/6-FileCarving2.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/7-FileCarving3.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/8-FileCarving4.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/9-FileCarving5.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/11-FileMetadata.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/12-FileMetadata2.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/14-Steganography1.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/15-Steganography2.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/FileForensics/18-UserTestimonial.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/0-CTFMeta.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/1-ClassicalCiphers.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/2-FrequencyAnalysis.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/3-AutomatedFrequencyAnalysis.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/4-IndexofCoincidence.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/5-CaesarCiphersandSubstitution.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/6-VigenereCiphers.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/7-FunCiphers.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/9-ModernCryptography.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/10-ModernCrypto.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/11-Passwords.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/12-PasswordsandHashingonLinux.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/13-XOR.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/14-RSA.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/16-ThingsYouShouldntTrytoDo.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/Cryptography/17-HackerMath.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/0-CTFMeta.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/1-NetworkForensicsIP.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/2-WiresharkTutorial.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/3-NetForensics1.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/4-NetForensics2.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/5-tSharkTutorial.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/6-NetForensics3.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/7-PacketCraftingTBD.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/8-PacketCrafting1.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NetworkForensics/9-LearnNetworking.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/ScriptingandMisc/0-PwntoolsProblems.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/ScriptingandMisc/1-LanguageProblems.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/ScriptingandMisc/2-GitInsanity.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/ScriptingandMisc/3-CryptocurrencyProblems.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/ScriptingandMisc/4-QRCodes.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/ScriptingandMisc/5-RestrictedShells.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/ScriptingandMisc/6-EverythingElseTBD.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/HostandMemoryForensics/0-ForensicsMetaIP.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/HostandMemoryForensics/1-HostForensicsBasics.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/HostandMemoryForensics/2-MemoryForensicsBasics.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/WebExploitation/0-CTFMeta.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/WebExploitation/1-LearnWebExploitationwithCapturetheFlags.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/BinaryExploitationandReversing/0-YouWontLearnThatHere.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/BinaryExploitationandReversing/1-FundamentalsofExploitDevelopment.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NextStepsandTrustedResources/0-PicoCTF.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NextStepsandTrustedResources/1-TryHackMe.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NextStepsandTrustedResources/2-HackTheBox.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/NextStepsandTrustedResources/4-UserTestimonial.html</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/ctf/.</loc>
+  <lastmod>2021-09-10T21:48:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.hoppersroppers.org/online-resume/</loc>
+  <lastmod>2021-08-20T19:33:38+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
 </urlset>
