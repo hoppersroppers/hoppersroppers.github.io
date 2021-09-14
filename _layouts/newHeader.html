@@ -24,7 +24,7 @@
 
     <link rel="icon" href="https://raw.githubusercontent.com/hoppersroppers/hoppersroppers.github.io/master/_layouts/compass.png" type="image/x-icon">
 
-    <!-- Bootstrap Core CSS -->
+     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
@@ -33,24 +33,16 @@
 	#div.purechat-container {
 	  overflow: hidden;
 	}
-	    .navbar {
-  padding:0rem;
-  margin-bottom:2rem;
+	    .navbar-default.nav-top ul {
+  display: inline-block;
+  float: right;
 }
-
-.dropdown .dropdown-menu {
-  border-radius:0;
- }
-
-
-/* Medium devices (tablets, 768px and up) 
-The navbar toggle appears at this breakpoint */
-@media (min-width: 768px) {  
-.dropdown:hover .dropdown-menu {
-    display: block;
-    margin-top: 0;
-  border-radius:0;
- }
+.navbar-default ul.navbar-top li {
+  float: left;
+  font-size: 11px;
+}
+.navbar-brand {
+  margin: -40px;
 }
     </style>
     <!-- Custom Fonts -->
@@ -71,101 +63,53 @@ The navbar toggle appears at this breakpoint */
 </head>
 <body>
 
-  <!-- Navigation  -->
-	
-  <a class="navbar-brand ml-3" href="#">
-    <span class="">BootstrapCreative </span>
-  </a>
+<nav class="navbar-default nav-top">
+  <div class="container-fluid">
+    <ul class="nav navbar-top" >
+      <li><a href="#">Nav-A-1</a>
 
-<nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
-  <!-- One of the primary actions on mobile is to call a business - This displays a phone button on mobile only -->
-  <div class="navbar-toggler-right">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-  </div>
-
-
-
-
-  <div class="collapse navbar-collapse flex-column " id="navbar">
-
-    <ul class="navbar-nav  w-100 justify-content-center px-3">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
+      <li><a href="#">Nav-A-2</a>
+
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
+      <li><a href="#">.....</a>
+
       </li>
     </ul>
-
-    <ul class="navbar-nav justify-content-center w-100 bg-secondary px-3">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown link
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">Action</a>
-          <a class="dropdown-item" href="#">Another action</a>
-          <a class="dropdown-item" href="#">Something else here</a>
-        </div>
-      </li>
-    </ul>
-
-
   </div>
-
 </nav>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+
+      </button>
+      <a class="navbar-brand" href="#">
+        <img src="http://placehold.it/100x50/f00/f00">
+      </a>
+
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav " style="margin-left:150px;">
+        <li class="active"><a href="#">Nav-B-1<span class="sr-only">(current)</span></a>
+
+        </li>
+        <li><a href="#">Nav-B-2</a>
+
+        </li>
+        <li><a href="#">Nav-B-3</a>
+
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
 
   {{ content }}
 
